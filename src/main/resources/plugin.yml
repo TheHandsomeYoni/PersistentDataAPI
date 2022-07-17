@@ -1,6 +1,0 @@
-name: PersistentDataAPI
-version: '${project.version}'
-main: me.thehandsomeyoni.persistentdataapi.PersistentDataAPI
-api-version: 1.19
-authors: [ TheHandsomeYoni ]
-description: An api than handles and manages Persistent Data in an easier and more efficient way
