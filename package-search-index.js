@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"me.thehandsomeyoni.persistentdataapi"},{"l":"me.thehandsomeyoni.persistentdataapi.api"},{"l":"me.thehandsomeyoni.persistentdataapi.api.enums"},{"l":"me.thehandsomeyoni.persistentdataapi.api.handler"},{"l":"me.thehandsomeyoni.persistentdataapi.exceptions"}];updateSearchResults();
