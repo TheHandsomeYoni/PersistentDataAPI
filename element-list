@@ -1,7 +1,6 @@
 me.thehandsomeyoni.persistentdataapi
-me.thehandsomeyoni.persistentdataapi.customdata
 me.thehandsomeyoni.persistentdataapi.data
-me.thehandsomeyoni.persistentdataapi.enums
 me.thehandsomeyoni.persistentdataapi.events
 me.thehandsomeyoni.persistentdataapi.events.manager
 me.thehandsomeyoni.persistentdataapi.exceptions
+me.thehandsomeyoni.persistentdataapi.manager
